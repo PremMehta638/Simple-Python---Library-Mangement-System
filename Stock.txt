@@ -1,0 +1,10 @@
+Naruto,Masashi kishimoto,18,$$$$$$$$$$$$$$$7.0
+Demon Slayer,koyoharu Gotouge,13,$$$$$$$$$$$$$$$9.0
+One Piece,Elichiro Oda,23,$$$$$$$$$$$$$$$8.0
+Muna Madan,Laxmi Parsd. Devkota,32,$$$$$$$$$$$$$$$12.0
+Seto Dharti,Amar Neupane,6,$$$$$$$$$$$$$$$6.0
+Jhola,Krishna Dharabasi,20,$$$$$$$$$$$$$$$7.0
+Summer love and Saya,Subin Bhattrai,24,$$$$$$$$$$$$$$$9.0
+Harry Potter,JK Rowling,16,$$$$$$$$$$$$$$$6.0
+Mayur Times,Narayan Wagle,17,$$$$$$$$$$$$$$$5.0
+Cheena harayko Mancche,Hari Bansha Acharya,35,$$$$$$$$$$$$$$$12.0

@@ -1,0 +1,10 @@
+----------Library Management System------------
+                     
+     ----Details of Borrower----Borrowed By: sh sd
+   Date: 2021-08-30     Time:16:48:11.568056
+S.N. 		 BookName 	         AuthorName 
+1. 		Naruto		 Masashi kishimoto
+2.		Naruto		  Masashi kishimoto
+3.		Jhola		  Krishna Dharabasi
+
+ Total Borrow Price: $<_io.TextIOWrapper name='Borrow---sh.txt' mode='a' encoding='cp1252'>

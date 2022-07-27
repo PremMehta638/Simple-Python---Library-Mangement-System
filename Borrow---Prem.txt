@@ -1,0 +1,8 @@
+----------Library Management System------------
+                     
+     ----Details of Borrower----Borrowed By: Prem Mehta
+   Date: 2021-08-30     Time:16:52:13.210090
+S.N. 		 BookName 	         AuthorName 
+1. 		Jhola		 Krishna Dharabasi
+
+ Total Borrow Price: $<_io.TextIOWrapper name='Borrow---Prem.txt' mode='a' encoding='cp1252'>
